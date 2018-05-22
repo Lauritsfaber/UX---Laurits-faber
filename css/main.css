@@ -48,7 +48,7 @@ a {
 
 nav {
     font-weight: 500;
-    font-size: 30px;
+    font-size: 25px;
 
 }
 
@@ -64,6 +64,13 @@ nav ul li {
     position: relative;
     padding-right: 3.5em;
     color: darkgrey;
+}
+
+iframe {
+    height: 50vw;
+    width: 60vw;
+    display: flex;
+
 }
 
 .dropdown > ul {
